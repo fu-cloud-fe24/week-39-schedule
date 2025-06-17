@@ -1,5 +1,5 @@
 # Schema, vecka 39
-###### Utveckling och driftsättning i molnmiljö, vecka 5 av 7
+###### Utveckling och driftsättning i molnmiljö, vecka 5 av 6
 
 ## Introduktion
 
